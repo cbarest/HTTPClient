@@ -3,8 +3,8 @@ title: Read Me
 stage: WIP
 info: Quick reference to HTTPClient files.
 comments: false
-description: `Notes about <../-= DELL BACKUP =-/source/buy-ux/Common/Dell.Premier.Web.Common/HttpClient> folder.` 
-language: YAML
+description: `Notes about ../-= DELL BACKUP =-/source/buy-ux/Common/Dell.Premier.Web.Common/HttpClient folder.` 
+language: yaml
 ---
 
 # Read Me
