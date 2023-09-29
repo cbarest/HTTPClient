@@ -8,6 +8,7 @@ language: yaml
 ---
 
 # Read Me
+**NOTE** This is not a project or solution. This is simply some sample code I created for review based on real-world use.
 
 ## About
 
